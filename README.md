@@ -5,7 +5,7 @@ A simple Minecraft cheat detector that is written in both C# and Java. It is des
 It will extract the name field within the fabric.mod.json file of each mod ***(bypassing retarded kids renaming their hacks into optifine 🥰)*** and store them into "! Suspicious.txt". The detector also saves the most suspicious files (99.9% chance of being hacks) into "!!! Extremely Suspicious.txt". 
 
 Furthermore, it also checks for .minecraft versions to detect non-fabric cheats 🥰💥🐦💥🐦🥶
-
+The process can take up to 10 seconds
 Example:
 ![image](https://user-images.githubusercontent.com/109868859/227674728-e57a7c40-fa91-41af-9adf-53b139f2dc1b.png)
 soon: forge hacks detection
