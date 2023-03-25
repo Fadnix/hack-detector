@@ -19,4 +19,4 @@ run the beau.exe or the .jar file and it will create a folder like this on your 
 
 **Java 17** or higher is required for running the java version
 
-[JDK/JRE 17]([https://adoptium.net/en-GB/download/](https://adoptium.net/en-GB/temurin/archive/))
+[JDK/JRE 17](https://adoptium.net/en-GB/temurin/archive/)
