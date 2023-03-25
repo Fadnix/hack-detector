@@ -8,3 +8,4 @@ Furthermore, it also checks for .minecraft versions to detect non-fabric cheats 
 
 Example:
 ![image](https://user-images.githubusercontent.com/109868859/227674728-e57a7c40-fa91-41af-9adf-53b139f2dc1b.png)
+soon: forge hacks detection
